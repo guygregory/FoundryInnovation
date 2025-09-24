@@ -1,0 +1,13 @@
+# Azure AI and ML dependencies
+azure-ai-projects
+azure-ai-agents --pre
+azure-identity
+
+# OpenAI client library
+openai
+
+# Environment and configuration
+python-dotenv
+
+# Jupyter notebook support
+IPython
