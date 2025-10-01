@@ -2,6 +2,7 @@
 azure-ai-projects
 azure-ai-agents --pre
 azure-identity
+agent-framework
 
 # OpenAI client library
 openai
