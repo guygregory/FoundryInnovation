@@ -34,6 +34,7 @@ cp .env.sample .env
 - **demo-websearch.ipynb**: Shows web search capabilities in the Responses API
 - **demo-model-router.ipynb**: Demonstrates model routing functionality
 - **demo-gpt-audio.ipynb**: GPT-Audio sample for generating spoken announcements
+- **demo-agent-framework.ipynb**: Microsoft Agent Framework demo with hosted MCP tools integration
 
 ## License
 
